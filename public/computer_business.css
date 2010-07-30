@@ -1,0 +1,224 @@
+body{
+font: normal small Arial, Helvetica, sans-serif;
+color: #707070;
+text-align:justify;
+font-size:13px;
+margin-top:16px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:10px;
+background-image:url(images/bg.gif); background-repeat:repeat-x;
+background-color:#202020;
+}
+#main
+{padding-left:10px; padding-right:10px; padding-bottom:10px;
+text-align:left;}
+#border
+{width:779px;
+height:auto;
+}
+.sap
+{width:148px;
+height:1px;
+margin-left:7px;
+margin-bottom:8px;
+background-color:#000000;
+font-size:1px;
+}
+.toplinkbg
+{width:148px;
+margin-left:7px;
+text-align:left;
+padding-bottom:3px;
+color:#B5B5B5;
+}
+.toplinkbg a
+{color:#B5B5B5;
+text-decoration:none;
+}
+.toplinkbg a:hover
+{color:#FFFFFF;
+text-decoration:none;
+}
+#whitearea
+{height:178px;
+width:779px;
+}
+#left
+{width:46px;
+float:left;
+background-color:#F6C605;
+height:177px;
+}
+#logo-bg
+{width:191px;
+float:left;
+height:177px;
+}
+#computer
+{width:327px;
+height:177px;
+float:left;
+background-image:url(images/computer.jpg); background-repeat:no-repeat;}
+#right
+{background-color:#000000;
+width:38px;
+height:177px;
+float:left;}
+.dot
+{width:8px;
+height:8px;
+font-size:1px;
+background-image:url(images/dot.gif); background-repeat:repeat-x;}
+.spacer2
+{height:20px;}
+.spacer
+{height:24px;}
+.links-bg
+{width:177px;
+height:177px;
+background-color:#3C3C3C;
+float:left;}
+#greyarea
+{background-color:#333333;
+width:779px;
+height:400px;
+}
+#left2
+{width:177px;
+float:left;
+background-color:#333333;
+height:auto;
+}
+#right2
+{width:602px;
+float:left;
+background-color:#000000;
+height:auto;
+}
+.heading
+{color:#F6C605;
+text-align:left;
+font-size:18px;
+height:40px;
+background-color:#2B2B2A;
+padding-left:10px;
+line-height:40px;
+}
+.heading2
+{color:#000000;
+font-size:18px;
+height:40px;
+text-align:left;
+background-color:#F6C604;
+padding-left:10px;
+line-height:40px;
+}
+.quicklinks
+{color:#F6C605;
+padding-left:10px;
+text-align:left;
+line-height:30px;
+text-decoration:underline;
+}
+.quicklinks a
+{color:#F6C605;
+text-decoration:underline;
+}
+.quicklinks:hover
+{color:#ffffff;
+padding-left:10px;
+line-height:30px;
+text-decoration:none;
+}
+a
+{color:#ffffff;
+text-decoration:underline;
+}
+a:hover
+{color:#ffffff;
+text-decoration:none;
+}
+.name
+{font-size:30px;
+color:#ffffff;
+margin-top:50px;
+text-align:center;
+}
+.tag
+{padding-left:125px;
+padding-top:55px;
+color:#A9A9A9;
+font-weight:bold;
+}
+.sap2
+{width:1px;
+float:left;
+color:#707070;
+height:20px;
+text-align:center;
+}
+.bottomlinkbg
+{width:145px;
+text-align:center;
+height:20px;
+color:#707070;
+float:left;
+}
+.bottomlinkbg a
+{color:#707070;
+text-decoration:none;
+}
+.bottomlinkbg a:hover
+{color:#F6C605;
+text-decoration:none;
+}
+#bottombg
+{width:779px;
+height:40px;
+line-height:40px;
+}
+
+
+
+CAPTION.MYTABLE
+  {
+     background-color:black;
+     color:white;
+     border-style:solid;
+     border-width:2px;
+     border-color:black;
+  }
+
+  TABLE.MYTABLE
+  {
+     font-family:arial;
+     font-size:12pt;
+     background-color:FF6600;
+     width:500px;
+     border-style:groove;
+     border-color:black;
+     border-width:2px;
+  }
+
+  TH.MYTABLE
+  {
+     font-size:12pt;
+     color:white;
+     text-align:center;
+  }
+
+
+  TR.MYTABLE
+  {
+  }
+
+  TD.MYTABLE
+  {
+     font-size:12pt;
+     background-color:FF6600;
+     color:white;
+     border-style:ridge;
+     border-width:1px;
+     text-align:center;
+  }
