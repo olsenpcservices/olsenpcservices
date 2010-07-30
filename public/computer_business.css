@@ -11,7 +11,7 @@ background-image:url(images/bg.gif); background-repeat:repeat-x;
 background-color:#202020;
 }
 #main
-{padding-left:10px; padding-right:10px; padding-bottom:10px;
+{padding-left:10px; padding-right:10px; padding-bottom:10px;font-size:17px;
 text-align:left;}
 #border
 {width:779px;

@@ -24,10 +24,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="environment.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="36" selection-start="722" selection-end="722" vertical-scroll-proportion="0.6832117">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="37.655174">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="computer_business.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/computer_business.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="72" selection-start="350" selection-end="350" vertical-scroll-proportion="0.49343064">
               <folding />
             </state>
           </provider>
@@ -45,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/config/environment.rb" />
         <option value="$PROJECT_DIR$/config/initializers/session_store.rb" />
+        <option value="$PROJECT_DIR$/public/computer_business.css" />
       </list>
     </option>
   </component>
@@ -308,6 +318,20 @@
     <entry file="file://$PROJECT_DIR$/config/environment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="36" selection-start="722" selection-end="722" vertical-scroll-proportion="0.6832117">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="37.655174">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/computer_business.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="72" selection-start="350" selection-end="350" vertical-scroll-proportion="0.49343064">
           <folding />
         </state>
       </provider>
