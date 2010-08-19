@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager" verified="true">
-    <list default="true" readonly="true" id="481a4cf4-d7bd-436b-b51d-86a2587d72d6" name="Default" comment="" />
+    <list default="true" readonly="true" id="481a4cf4-d7bd-436b-b51d-86a2587d72d6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/olsenpcservices.iml" afterPath="$PROJECT_DIR$/.idea/olsenpcservices.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+    </list>
     <ignored path="olsenpcservices.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+            <state line="23" column="13" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -36,7 +41,7 @@
       <file leaf-file-name="transfer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/transfer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,7 +50,7 @@
       <file leaf-file-name="pricing.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -54,7 +59,7 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -63,7 +68,7 @@
       <file leaf-file-name="services.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.75061727">
+            <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.07580175">
               <folding />
             </state>
           </provider>
@@ -126,6 +131,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,9 +167,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Favorites" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,19 +317,20 @@
     <option name="DETECT_NESTED_COPIES" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <configuration useDefault="true">C:\Users\scott\AppData\Roaming\Subversion</configuration>
+    <configuration useDefault="true">$PROJECT_DIR$/../../.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1352" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="750" extended-state="7" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11923689" sideWeight="0.6633663" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11863057" sideWeight="0.65923566" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -378,42 +384,42 @@
         <state line="18" column="36" selection-start="722" selection-end="722" vertical-scroll-proportion="0.6832117" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/computer_business.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="9" selection-start="1382" selection-end="1382" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+        <state line="23" column="13" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/transfer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="-10.4827585">
+        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/computer_business.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="9" selection-start="1382" selection-end="1382" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.75061727">
+        <state line="22" column="13" selection-start="942" selection-end="942" vertical-scroll-proportion="0.07580175">
           <folding />
         </state>
       </provider>
